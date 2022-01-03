@@ -15,7 +15,7 @@ body {
     color: white;
 }
 
-.dlogo {
+logo {
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -30,4 +30,14 @@ body {
 .services {
     color: white;
     background-image: url(images/s_image.jpg)
+}
+
+.hide {
+    display: none;
+}
+
+.Hover {
+    opacity: 0;
+    background-color: rgba(185, 180, 180, 0.623);
+    position: absolute;
 }
