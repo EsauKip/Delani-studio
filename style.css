@@ -26,3 +26,8 @@ body {
     margin-right: auto;
     display: block;
 }
+
+.services {
+    color: white;
+    background-image: url(images/s_image.jpg)
+}
